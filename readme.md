@@ -6,18 +6,18 @@
 
 ## Índice
 
-1. [Visão geral](#visao-geral)
-2. [Pré‑requisitos](#pre-requisitos)
-3. [Instalar ](#instalar-uv)[*uv*](#instalar-uv)[ (opcional ↔ recomendado)](#instalar-uv)
-4. [Clonar o repositório Bonsai\_mcp](#clonar-repo)
-5. [Criar e ativar ambiente Python](#venv)
-6. [Instalar dependências](#deps)
-7. [Testar o servidor MCP](#test-servidor)
-8. [Instalar o add‑on no Blender](#addon-blender)
-9. [Configurar o Claude Desktop](#claude-config)
-10. [Fluxo de uso](#fluxo-uso)
-11. [Problemas comuns](#problemas)
-12. [Créditos](#creditos)
+1. [Visão geral](#1-visao-geral)
+2. [Pré‑requisitos](#2-pre-requisitos)
+3. [Instalar ](#3-instalar-uv)[*uv*](#3-instalar-uv)[ (opcional ↔ recomendado)](#3-instalar-uv)
+4. [Clonar o repositório Bonsai\_mcp](#4-clonar-repo)
+5. [Criar e ativar ambiente Python](#5-venv)
+6. [Instalar dependências](#6-deps)
+7. [Testar o servidor MCP](#7-test-servidor)
+8. [Instalar o add‑on no Blender](#8-addon-blender)
+9. [Configurar o Claude Desktop](#9-claude-config)
+10. [Fluxo de uso](#10-fluxo-uso)
+11. [Problemas comuns](#11-problemas)
+12. [Créditos](#12-creditos)
 
 
 
@@ -180,7 +180,7 @@ Reinicie o Claude Desktop. Vai em **Claude ▸ Settings ▸ Developer ▸ Edit
 
 - **Bonsai\_mcp** – versão personalizada [BlenderMCP]([https://github.com/sidahuja/blendermcp](https://github.com/JotaDeRodriguez/Bonsai_mcp)) por [@JotaDeRodriguez](https://github.com/JotaDeRodriguez)
 - [**Como instalar e configurar o Blender MCP com o tutorial Claude AI**](https://www.youtube.com/watch?v=PBSvqfx4gwQ&t=2s) por [@unitedtoptech6288](https://www.youtube.com/@unitedtoptech6288)
-- **Sequential Thinking** tool – Model Context Protocol servers (Integração de Protocolo de Contexto)
+- **Sequential Thinking** tool – [Model Context Protocol servers](https://modelcontextprotocol.io/introduction)
 - **Bonsai BIM** – IfcOpenShell dentro do Blender
 
 ---
