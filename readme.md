@@ -154,7 +154,9 @@ Reinicie o Claude Desktop. Vai em **Claude ▸ Settings ▸ Developer ▸ Edit
 
 1. **Iniciar o servidor** (Claude o fará automaticamente; ou você mesmo `python tools.py`).
 2. **No Blender**, clique em **Connect**.
+   
    ![image](https://github.com/user-attachments/assets/d6fe8c0d-4413-494f-a4f2-7a16b4279846)
+
 4. No Claude, pergunte coisas como:
    - `Liste todas as paredes deste modelo.`
    - `Mostre a estrutura espacial.`
