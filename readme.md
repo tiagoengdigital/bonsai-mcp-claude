@@ -6,18 +6,18 @@
 
 ## Índice
 
-1. [Visão geral](#1-visao-geral)
-2. [Pré‑requisitos](#2-pre-requisitos)
-3. [Instalar ](#3-instalar-uv)[*uv*](#3-instalar-uv)[ (opcional ↔ recomendado)](#3-instalar-uv)
-4. [Clonar o repositório Bonsai\_mcp](#4-clonar-repo)
-5. [Criar e ativar ambiente Python](#5-venv)
-6. [Instalar dependências](#6-deps)
-7. [Testar o servidor MCP](#7-test-servidor)
-8. [Instalar o add‑on no Blender](#8-addon-blender)
-9. [Configurar o Claude Desktop](#9-claude-config)
-10. [Fluxo de uso](#10-fluxo-uso)
-11. [Problemas comuns](#11-problemas)
-12. [Créditos](#12-creditos)
+1. [Visão geral](#1-visão-geral)
+2. [Pré‑requisitos](#2-pré-requisitos)
+3. [Instalar ](#3-instalar-uv-opcional--recomendado)[*uv*](#3-instalar-uv-opcional--recomendado)[ (opcional ↔ recomendado)](#3-instalar-uv-opcional--recomendado)
+4. [Clonar o repositório Bonsai\_mcp](#4-clonar-o-repositório-bonsai_mcp)
+5. [Criar e ativar ambiente Python](#5-criar-e-ativar-ambiente-python)
+6. [Instalar dependências](#6-instalar-dependências)
+7. [Testar o servidor MCP](#7-testar-o-servidor-mcp)
+8. [Instalar o add‑on no Blender](#8-instalar-o-add‑on-no-blender)
+9. [Configurar o Claude Desktop](#9-configurar-o-claude-desktop)
+10. [Fluxo de uso](#10-fluxo-de-uso)
+11. [Problemas comuns](#11-problemas-comuns)
+12. [Créditos](#12-créditos)
 
 
 
