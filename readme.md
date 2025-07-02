@@ -7,7 +7,7 @@
 ## Índice
 
 1. [Visão geral](#1-visão-geral)
-2. [Pré‑requisitos](#2-pré-requisitos)
+2. [Pré‑requisitos](#2-pré--requisitos)
 3. [Instalar ](#3-instalar-uv-opcional--recomendado)[*uv*](#3-instalar-uv-opcional--recomendado)[ (opcional ↔ recomendado)](#3-instalar-uv-opcional--recomendado)
 4. [Clonar o repositório Bonsai\_mcp](#4-clonar-o-repositório-bonsai_mcp)
 5. [Criar e ativar ambiente Python](#5-criar-e-ativar-ambiente-python)
