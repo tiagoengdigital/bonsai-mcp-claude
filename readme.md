@@ -179,7 +179,7 @@ Reinicie o Claude Desktop. Vai em **Claude ▸ Settings ▸ Developer ▸ Edit
 ## 12. Créditos
 
 - **Bonsai\_mcp** – versão personalizada [BlenderMCP]([https://github.com/sidahuja/blendermcp](https://github.com/JotaDeRodriguez/Bonsai_mcp)) por [@JotaDeRodriguez](https://github.com/JotaDeRodriguez)
-- **Como instalar e configurar o Blender MCP com o tutorial Claude AI** por [@unitedtoptech6288](https://www.youtube.com/@unitedtoptech6288)
+- [**Como instalar e configurar o Blender MCP com o tutorial Claude AI**](https://www.youtube.com/watch?v=PBSvqfx4gwQ&t=2s) por [@unitedtoptech6288](https://www.youtube.com/@unitedtoptech6288)
 - **Sequential Thinking** tool – Model Context Protocol servers (Integração de Protocolo de Contexto)
 - **Bonsai BIM** – IfcOpenShell dentro do Blender
 
