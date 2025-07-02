@@ -1,6 +1,6 @@
 # Bonsai BIM × Claude Desktop – Guia de Instalação (Windows 10/11)
 
-> **Objetivo**  Ligação do Blender + Bonsai BIM a modelos de linguagem (Claude, ChatGPT, etc.) via **Bonsai\_mcp** (fork do BlenderMCP) usando o **Model Context Protocol**.
+> **Objetivo**  Ligação do Blender + Bonsai BIM a modelos de linguagem (Claude, ChatGPT, etc.) via **Bonsai\_mcp** (versão personalizada do BlenderMCP) usando o **Model Context Protocol**.
 
 ---
 
@@ -36,7 +36,7 @@ O **Bonsai\_mcp** expõe 11 ferramentas IFC (consultar entidades, propriedades,
 | Python                                | 3.12          | [https://www.python.org/downloads/](https://www.python.org/downloads/)                         |
 | Git                                   | *qualquer*    | [https://git-scm.com/downloads](https://git-scm.com/downloads)                                 |
 | Claude Desktop                        | 0.9+          | [https://github.com/jthomasmock/claude-desktop](https://github.com/jthomasmock/claude-desktop) |
-| **uv** (opcional – instalador rápido) | 0.3+          | ver §3                                                                                         |
+| **uv** (opcional – instalador rápido) | 0.3+          | [https://github.com/astral-sh/uv/releases/tag/0.7.18](https://github.com/astral-sh/uv/releases/tag/0.7.18)|
 
 
 
@@ -177,8 +177,8 @@ Reinicie o Claude Desktop. Se tudo der certo, aparecerá o ícone 🛠 mostrand
 
 ## 12. Créditos
 
-- **Bonsai\_mcp** – fork de [BlenderMCP](https://github.com/sidahuja/blendermcp) por [@JotaDeRodriguez](https://github.com/JotaDeRodriguez)
-- **Sequential Thinking** tool – Model Context Protocol servers
+- **Bonsai\_mcp** – versão personalizada [BlenderMCP]([https://github.com/sidahuja/blendermcp](https://github.com/JotaDeRodriguez/Bonsai_mcp)) por [@JotaDeRodriguez](https://github.com/JotaDeRodriguez)
+- **Sequential Thinking** tool – Model Context Protocol servers (Integração de Protocolo de Contexto)
 - **Bonsai BIM** – IfcOpenShell dentro do Blender
 
 ---
