@@ -34,8 +34,7 @@ O **Bonsai\_mcp** expõe 11 ferramentas IFC (consultar entidades, propriedades,
 | Blender                               | 4.0           | [https://www.blender.org/download/](https://www.blender.org/download/)                         |
 | Bonsai BIM (BlenderBIM)               | 0.0.2405+     | [https://blenderbim.org/download.html](https://blenderbim.org/download.html)                   |
 | Python                                | 3.12          | [https://www.python.org/downloads/](https://www.python.org/downloads/)                         |
-| Git                                   | *qualquer*    | [https://git-scm.com/downloads](https://git-scm.com/downloads)                                 |
-| Claude Desktop                        | 0.9+          | [https://github.com/jthomasmock/claude-desktop](https://github.com/jthomasmock/claude-desktop) |
+| Claude Desktop                        | 0.9+          | [https://claude.ai/download](https://claude.ai/download)                                       |
 | **uv** (opcional – instalador rápido) | 0.3+          | [https://github.com/astral-sh/uv/releases/tag/0.7.18](https://github.com/astral-sh/uv/releases/tag/0.7.18)|
 
 
@@ -148,19 +147,19 @@ Abra **Claude ▸ Settings ▸ Developer ▸ Edit Config**.
 }
 ```
 
-Reinicie o Claude Desktop. Se tudo der certo, aparecerá o ícone 🛠 mostrando as ferramentas IFC.
-
+Reinicie o Claude Desktop. Vai em **Claude ▸ Settings ▸ Developer ▸ Edit Config** e confirme se não apareceu algum erro. Se tudo estiver correto, aparecerá o ícone 🛠 mostrando as ferramentas IFC.
 
 
 ## 10. Fluxo de uso
 
 1. **Iniciar o servidor** (Claude o fará automaticamente; ou você mesmo `python tools.py`).
 2. **No Blender**, clique em **Connect**.
-3. No Claude, pergunte coisas como:
+   ![image](https://github.com/user-attachments/assets/d6fe8c0d-4413-494f-a4f2-7a16b4279846)
+4. No Claude, pergunte coisas como:
    - `Liste todas as paredes deste modelo.`
    - `Mostre a estrutura espacial.`
    - `Exporte paredes para CSV.`
-4. O LLM usa as ferramentas IFC expostas pelo Bonsai\_mcp.
+5. O LLM usa as ferramentas IFC expostas pelo Bonsai\_mcp.
 
 
 
@@ -178,10 +177,11 @@ Reinicie o Claude Desktop. Se tudo der certo, aparecerá o ícone 🛠 mostrand
 ## 12. Créditos
 
 - **Bonsai\_mcp** – versão personalizada [BlenderMCP]([https://github.com/sidahuja/blendermcp](https://github.com/JotaDeRodriguez/Bonsai_mcp)) por [@JotaDeRodriguez](https://github.com/JotaDeRodriguez)
+- **Como instalar e configurar o Blender MCP com o tutorial Claude AI** por [@unitedtoptech6288](https://www.youtube.com/@unitedtoptech6288)
 - **Sequential Thinking** tool – Model Context Protocol servers (Integração de Protocolo de Contexto)
 - **Bonsai BIM** – IfcOpenShell dentro do Blender
 
 ---
 
-> **Licença MIT** – Sinta‑se livre para forkar, melhorar e enviar PRs!
+> **Licença MIT** – Este projeto é aberto — sinta-se à vontade para fazer sua própria versão, propor melhorias e enviar pull requests (PRs)
 
